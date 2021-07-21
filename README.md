@@ -11,3 +11,9 @@ To fix
 3. Click on "pynput.keyboard" on the line "from pynput.keyboard import Listener"
 4. It should install the pynput and now the program should work
 Have fun and check out my other programs!!
+
+
+**21/07/21**
+Changed it so you woll not need to use Pycharm to run it
+These extra files may not work but idk yet 
+hf
